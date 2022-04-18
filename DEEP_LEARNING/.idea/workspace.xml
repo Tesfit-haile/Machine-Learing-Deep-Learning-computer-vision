@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b06fb2f-1c07-40a1-83ca-1ffd8ecf19c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Royal_deepLearning_projects/PlantDiseaseProject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/ALL_models_together_NN_RNN_CNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PyTorch_Practice/ALL_models_together_NN_RNN_CNN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/CNN/.ipynb_checkpoints/CNN_Repeated_01-12-2021-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/CNN/CNN_OOP_basic.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/CNN/CNN_OPP_Prediction_single_and_multyple.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/CNN/CNN_Repeated_01-12-2021.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/CNN/CNN_calculate_loss_Gradient_Descent_update_weight_Training_WithSingle_Batch_PyTorch_.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/CNN/CNN_fc_Training_With_multiple_batch_PyTorch.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/CNN/CNN_simple.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/NN/.ipynb_checkpoints/NN_Train_Test_Fully_Connected_NN-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/NN/NN_Train_Test_Fully_Connected_NN.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/NN/NN_Train_Test_Fully_Connected_NN_repeated.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/NN/dataMNIST/MNIST/raw/t10k-images-idx3-ubyte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/NN/dataMNIST/MNIST/raw/t10k-images-idx3-ubyte.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/NN/dataMNIST/MNIST/raw/t10k-labels-idx1-ubyte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/NN/dataMNIST/MNIST/raw/t10k-labels-idx1-ubyte.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/NN/dataMNIST/MNIST/raw/train-images-idx3-ubyte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/NN/dataMNIST/MNIST/raw/train-images-idx3-ubyte.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/NN/dataMNIST/MNIST/raw/train-labels-idx1-ubyte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/NN/dataMNIST/MNIST/raw/train-labels-idx1-ubyte.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/NN/part_1_Neural_Network.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/RNN/.ipynb_checkpoints/NN_RNN_CNN_all_together-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/RNN/.ipynb_checkpoints/RNN_PyTorch_practice_repeated-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/RNN/RNN_PyTorch_example.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/RNN/RNN_PyTorch_practice_repeated.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/RNN/dataMNIST/MNIST/raw/t10k-images-idx3-ubyte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/RNN/dataMNIST/MNIST/raw/t10k-images-idx3-ubyte.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/RNN/dataMNIST/MNIST/raw/t10k-labels-idx1-ubyte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/RNN/dataMNIST/MNIST/raw/t10k-labels-idx1-ubyte.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/RNN/dataMNIST/MNIST/raw/train-images-idx3-ubyte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/RNN/dataMNIST/MNIST/raw/train-images-idx3-ubyte.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/RNN/dataMNIST/MNIST/raw/train-labels-idx1-ubyte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch_Practice/RNN/dataMNIST/MNIST/raw/train-labels-idx1-ubyte.gz" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2761VxGvHfGYmVpZnIxlRJFCrDD" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PlantDiseaseProject" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DEEP_LEARNING" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Royal_deepLearning_projects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Royal_deepLearning_projects/PlantDiseaseProject.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.PlantDiseaseProject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b06fb2f-1c07-40a1-83ca-1ffd8ecf19c6" name="Default Changelist" comment="" />
+      <created>1648625748667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648625748667</updated>
+    </task>
+    <servers />
+  </component>
+</project>
